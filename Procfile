@@ -1,1 +1,1 @@
-web: racket -l racket-demoservice
+web: racket -l heroku-racket-app
