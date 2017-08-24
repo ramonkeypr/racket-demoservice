@@ -6,7 +6,7 @@
 (define (start req)
   (response/xexpr
    '(html (head (title "Racket Heroku App"))
-          (body (h1 "It works!")))))
+          (body (h1 "It works... I think!")))))
 
 (define port (if (getenv "PORT")
                  (string->number (getenv "PORT"))
