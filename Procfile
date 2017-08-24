@@ -1,1 +1,1 @@
-web: racket -l demoservice/server
+web: racket -l racket-demoservice/server

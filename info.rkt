@@ -1,2 +1,2 @@
 #lang info
-(define collections 'demowebservice)
+(define collections 'racket-demoservice)
